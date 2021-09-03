@@ -3,7 +3,7 @@
 Predict the fare on airline tickets
 ## GENERAL INFORMATION
 ### Purpose
-The purpose of this Document is to help airline companies to predict the price of a ticket based 
+The purpose of this project is to help airline companies to predict the price of a ticket based 
 on all the information surrounding it. This will help the airline companies to boost their revenue 
 which is their ultimate aim. The price is an important factor as nowadays price changes due to 
 seat availability and demand.
